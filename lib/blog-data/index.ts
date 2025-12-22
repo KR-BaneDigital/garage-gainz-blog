@@ -2,10 +2,12 @@ import { post as unlock_your_strength_the_resistance_bands_that_change_your_g } 
 import { post as unleash_your_strength_discover_the_power_of_resistance_loop_ } from './unleash-your-strength-discover-the-power-of-resistance-loop-.data'
 import { post as unleash_vitality_how_zinc_50mg_transforms_your_health_journe } from './unleash-vitality-how-zinc-50mg-transforms-your-health-journe.data'
 import { post as nordictrack_treadmill_your_gateway_to_a_healthier_fitter_you } from './nordictrack-treadmill-your-gateway-to-a-healthier-fitter-you.data'
+import { post as unleash_your_grip_strengthen_hands_with_the_grip_strengthene } from './unleash-your-grip-strengthen-hands-with-the-grip-strengthene.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unleash_your_grip_strengthen_hands_with_the_grip_strengthene,
   nordictrack_treadmill_your_gateway_to_a_healthier_fitter_you,
   unleash_vitality_how_zinc_50mg_transforms_your_health_journe,
   unleash_your_strength_discover_the_power_of_resistance_loop_,
