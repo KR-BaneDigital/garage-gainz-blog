@@ -8,10 +8,12 @@ import { post as pedal_your_way_to_fitness_the_yosuda_exercise_bike_review } fro
 import { post as unleash_your_strength_yes4all_kettlebell_for_total_body_tran } from './unleash-your-strength-yes4all-kettlebell-for-total-body-tran.data'
 import { post as unleash_your_core_power_trideer_exercise_ball_review_benefit } from './unleash-your-core-power-trideer-exercise-ball-review-benefit.data'
 import { post as unlock_vibrant_health_the_turmeric_curcumin_secret_you_need } from './unlock-vibrant-health-the-turmeric-curcumin-secret-you-need.data'
+import { post as step_into_fitness_the_foldable_air_walker_that_transforms_yo } from './step-into-fitness-the-foldable-air-walker-that-transforms-yo.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  step_into_fitness_the_foldable_air_walker_that_transforms_yo,
   unlock_vibrant_health_the_turmeric_curcumin_secret_you_need,
   unleash_your_core_power_trideer_exercise_ball_review_benefit,
   unleash_your_strength_yes4all_kettlebell_for_total_body_tran,
