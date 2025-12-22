@@ -6,10 +6,12 @@ import { post as unleash_your_grip_strengthen_hands_with_the_grip_strengthene } 
 import { post as unlock_your_strength_why_creatine_monohydrate_is_a_game_chan } from './unlock-your-strength-why-creatine-monohydrate-is-a-game-chan.data'
 import { post as pedal_your_way_to_fitness_the_yosuda_exercise_bike_review } from './pedal-your-way-to-fitness-the-yosuda-exercise-bike-review.data'
 import { post as unleash_your_strength_yes4all_kettlebell_for_total_body_tran } from './unleash-your-strength-yes4all-kettlebell-for-total-body-tran.data'
+import { post as unleash_your_core_power_trideer_exercise_ball_review_benefit } from './unleash-your-core-power-trideer-exercise-ball-review-benefit.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unleash_your_core_power_trideer_exercise_ball_review_benefit,
   unleash_your_strength_yes4all_kettlebell_for_total_body_tran,
   pedal_your_way_to_fitness_the_yosuda_exercise_bike_review,
   unlock_your_strength_why_creatine_monohydrate_is_a_game_chan,
