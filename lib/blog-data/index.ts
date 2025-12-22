@@ -7,10 +7,12 @@ import { post as unlock_your_strength_why_creatine_monohydrate_is_a_game_chan } 
 import { post as pedal_your_way_to_fitness_the_yosuda_exercise_bike_review } from './pedal-your-way-to-fitness-the-yosuda-exercise-bike-review.data'
 import { post as unleash_your_strength_yes4all_kettlebell_for_total_body_tran } from './unleash-your-strength-yes4all-kettlebell-for-total-body-tran.data'
 import { post as unleash_your_core_power_trideer_exercise_ball_review_benefit } from './unleash-your-core-power-trideer-exercise-ball-review-benefit.data'
+import { post as unlock_vibrant_health_the_turmeric_curcumin_secret_you_need } from './unlock-vibrant-health-the-turmeric-curcumin-secret-you-need.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unlock_vibrant_health_the_turmeric_curcumin_secret_you_need,
   unleash_your_core_power_trideer_exercise_ball_review_benefit,
   unleash_your_strength_yes4all_kettlebell_for_total_body_tran,
   pedal_your_way_to_fitness_the_yosuda_exercise_bike_review,
