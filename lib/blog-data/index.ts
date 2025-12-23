@@ -10,10 +10,12 @@ import { post as unleash_your_core_power_trideer_exercise_ball_review_benefit } 
 import { post as unlock_vibrant_health_the_turmeric_curcumin_secret_you_need } from './unlock-vibrant-health-the-turmeric-curcumin-secret-you-need.data'
 import { post as step_into_fitness_the_foldable_air_walker_that_transforms_yo } from './step-into-fitness-the-foldable-air-walker-that-transforms-yo.data'
 import { post as revolutionize_your_fitness_the_smart_exercise_bike_that_deli } from './revolutionize-your-fitness-the-smart-exercise-bike-that-deli.data'
+import { post as power_tower_station_elevate_your_charging_game_to_new_height } from './power-tower-station-elevate-your-charging-game-to-new-height.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  power_tower_station_elevate_your_charging_game_to_new_height,
   revolutionize_your_fitness_the_smart_exercise_bike_that_deli,
   step_into_fitness_the_foldable_air_walker_that_transforms_yo,
   unlock_vibrant_health_the_turmeric_curcumin_secret_you_need,
