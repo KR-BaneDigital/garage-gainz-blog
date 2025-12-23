@@ -27,10 +27,12 @@ import { post as unleash_your_fitness_how_the_power_tower_transforms_home_wor } 
 import { post as jump_rope_your_way_to_fitness_the_ultimate_cardio_game_chang } from './jump-rope-your-way-to-fitness-the-ultimate-cardio-game-chang.data'
 import { post as unlock_vitality_discover_the_power_of_beef_liver_capsules } from './unlock-vitality-discover-the-power-of-beef-liver-capsules.data'
 import { post as unlock_your_grip_strength_a_game_changer_with_fat_gripz_pro } from './unlock-your-grip-strength-a-game-changer-with-fat-gripz-pro.data'
+import { post as unlock_digestive_bliss_the_power_of_psyllium_husk_caps_revea } from './unlock-digestive-bliss-the-power-of-psyllium-husk-caps-revea.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unlock_digestive_bliss_the_power_of_psyllium_husk_caps_revea,
   unlock_your_grip_strength_a_game_changer_with_fat_gripz_pro,
   unlock_vitality_discover_the_power_of_beef_liver_capsules,
   jump_rope_your_way_to_fitness_the_ultimate_cardio_game_chang,
