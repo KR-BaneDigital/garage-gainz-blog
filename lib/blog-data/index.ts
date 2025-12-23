@@ -23,10 +23,12 @@ import { post as unlock_ultimate_relief_elefor_deep_tissue_massage_gun_review } 
 import { post as unlock_pain_free_movement_our_take_on_the_joint_support_supp } from './unlock-pain-free-movement-our-take-on-the-joint-support-supp.data'
 import { post as row_your_way_to_fitness_why_merach_rowing_machine_is_a_game_ } from './row-your-way-to-fitness-why-merach-rowing-machine-is-a-game-.data'
 import { post as unfold_your_fitness_journey_the_foldable_exercise_bike_revie } from './unfold-your-fitness-journey-the-foldable-exercise-bike-revie.data'
+import { post as unleash_your_fitness_how_the_power_tower_transforms_home_wor } from './unleash-your-fitness-how-the-power-tower-transforms-home-wor.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unleash_your_fitness_how_the_power_tower_transforms_home_wor,
   unfold_your_fitness_journey_the_foldable_exercise_bike_revie,
   row_your_way_to_fitness_why_merach_rowing_machine_is_a_game_,
   unlock_pain_free_movement_our_take_on_the_joint_support_supp,
