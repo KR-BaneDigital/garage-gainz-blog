@@ -20,10 +20,12 @@ import { post as lift_heavy_lift_smart_unleashing_gains_with_lifting_wrist_st } 
 import { post as find_your_zen_goli_ashwagandha_gummies_for_stress_free_livin } from './find-your-zen-goli-ashwagandha-gummies-for-stress-free-livin.data'
 import { post as elevate_your_workout_the_pull_up_bar_that_transforms_home_fi } from './elevate-your-workout-the-pull-up-bar-that-transforms-home-fi.data'
 import { post as unlock_ultimate_relief_elefor_deep_tissue_massage_gun_review } from './unlock-ultimate-relief-elefor-deep-tissue-massage-gun-review.data'
+import { post as unlock_pain_free_movement_our_take_on_the_joint_support_supp } from './unlock-pain-free-movement-our-take-on-the-joint-support-supp.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unlock_pain_free_movement_our_take_on_the_joint_support_supp,
   unlock_ultimate_relief_elefor_deep_tissue_massage_gun_review,
   elevate_your_workout_the_pull_up_bar_that_transforms_home_fi,
   find_your_zen_goli_ashwagandha_gummies_for_stress_free_livin,
