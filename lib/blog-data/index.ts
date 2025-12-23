@@ -18,10 +18,12 @@ import { post as shake_up_your_nutrition_the_electric_protein_shaker_that_del } 
 import { post as elevate_your_workouts_the_zelus_weighted_vest_for_ultimate_g } from './elevate-your-workouts-the-zelus-weighted-vest-for-ultimate-g.data'
 import { post as lift_heavy_lift_smart_unleashing_gains_with_lifting_wrist_st } from './lift-heavy-lift-smart-unleashing-gains-with-lifting-wrist-st.data'
 import { post as find_your_zen_goli_ashwagandha_gummies_for_stress_free_livin } from './find-your-zen-goli-ashwagandha-gummies-for-stress-free-livin.data'
+import { post as elevate_your_workout_the_pull_up_bar_that_transforms_home_fi } from './elevate-your-workout-the-pull-up-bar-that-transforms-home-fi.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  elevate_your_workout_the_pull_up_bar_that_transforms_home_fi,
   find_your_zen_goli_ashwagandha_gummies_for_stress_free_livin,
   lift_heavy_lift_smart_unleashing_gains_with_lifting_wrist_st,
   elevate_your_workouts_the_zelus_weighted_vest_for_ultimate_g,
