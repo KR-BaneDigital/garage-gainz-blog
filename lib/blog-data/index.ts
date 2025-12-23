@@ -25,10 +25,12 @@ import { post as row_your_way_to_fitness_why_merach_rowing_machine_is_a_game_ } 
 import { post as unfold_your_fitness_journey_the_foldable_exercise_bike_revie } from './unfold-your-fitness-journey-the-foldable-exercise-bike-revie.data'
 import { post as unleash_your_fitness_how_the_power_tower_transforms_home_wor } from './unleash-your-fitness-how-the-power-tower-transforms-home-wor.data'
 import { post as jump_rope_your_way_to_fitness_the_ultimate_cardio_game_chang } from './jump-rope-your-way-to-fitness-the-ultimate-cardio-game-chang.data'
+import { post as unlock_vitality_discover_the_power_of_beef_liver_capsules } from './unlock-vitality-discover-the-power-of-beef-liver-capsules.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unlock_vitality_discover_the_power_of_beef_liver_capsules,
   jump_rope_your_way_to_fitness_the_ultimate_cardio_game_chang,
   unleash_your_fitness_how_the_power_tower_transforms_home_wor,
   unfold_your_fitness_journey_the_foldable_exercise_bike_revie,
