@@ -13,10 +13,12 @@ import { post as revolutionize_your_fitness_the_smart_exercise_bike_that_deli } 
 import { post as power_tower_station_elevate_your_charging_game_to_new_height } from './power-tower-station-elevate-your-charging-game-to-new-height.data'
 import { post as unlock_your_perfect_fit_the_body_measuring_tape_that_transfo } from './unlock-your-perfect-fit-the-body-measuring-tape-that-transfo.data'
 import { post as unlock_better_health_the_omega_3_fish_oil_that_changes_every } from './unlock-better-health-the-omega-3-fish-oil-that-changes-every.data'
+import { post as unlock_your_grip_strength_the_hand_grip_strengthener_that_de } from './unlock-your-grip-strength-the-hand-grip-strengthener-that-de.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unlock_your_grip_strength_the_hand_grip_strengthener_that_de,
   unlock_better_health_the_omega_3_fish_oil_that_changes_every,
   unlock_your_perfect_fit_the_body_measuring_tape_that_transfo,
   power_tower_station_elevate_your_charging_game_to_new_height,
