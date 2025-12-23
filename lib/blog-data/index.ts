@@ -31,10 +31,12 @@ import { post as unlock_digestive_bliss_the_power_of_psyllium_husk_caps_revea } 
 import { post as elevate_your_workout_push_up_bars_for_perfect_form_and_gains } from './elevate-your-workout-push-up-bars-for-perfect-form-and-gains.data'
 import { post as unleash_your_inner_power_fitgirl_ankle_strap_for_ultimate_wo } from './unleash-your-inner-power-fitgirl-ankle-strap-for-ultimate-wo.data'
 import { post as reel_in_health_discover_the_omega_3_fish_oil_difference } from './reel-in-health-discover-the-omega-3-fish-oil-difference.data'
+import { post as unleash_your_power_the_grip_strength_trainer_that_transforms } from './unleash-your-power-the-grip-strength-trainer-that-transforms.data'
 // Blog Data Index - APPEND-ONLY System
 // 🤖 Backend appends to this file when new posts are built
 
 export const allPosts: any[] = []
+  unleash_your_power_the_grip_strength_trainer_that_transforms,
   reel_in_health_discover_the_omega_3_fish_oil_difference,
   unleash_your_inner_power_fitgirl_ankle_strap_for_ultimate_wo,
   elevate_your_workout_push_up_bars_for_perfect_form_and_gains,
